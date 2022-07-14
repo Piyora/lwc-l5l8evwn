@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/piyora.lwc-l5l8evwn",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve S348iLjB3ihzik7D2rpY --open"
+  }
+}
